@@ -1,5 +1,4 @@
 // 3) Área de un círculo: Declara una variable de tipo double para el radio de un círculo y calcula su área (π * radio^2).
-
 import java.util.Scanner;
 public class AreaCirculo {
     public static void main(String[] args)  throws Exception{

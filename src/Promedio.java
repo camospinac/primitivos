@@ -1,5 +1,4 @@
 // 4) Promedio de tres números: Escribe un programa que acepte tres números enteros y calcule su promedio.
-
 import java.util.Scanner;
 public class Promedio {
     public static void main(String[] args) throws Exception{
