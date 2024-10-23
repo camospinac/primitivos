@@ -17,6 +17,5 @@ public class RecorrerArreglo {
         for ( int i = 0;  i < enteros2.length ; i++){
             System.out.println("Dato"+ (i + 1) + " = "+enteros2[i]);
         }
-        // var enteros = new int [] {100, 200, 300, 400, 500};
     }
 }
